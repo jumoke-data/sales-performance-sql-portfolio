@@ -16,7 +16,7 @@ This SQL portfolio project analyses a fictional retail sales dataset to answer f
 3. Which sales channel drives more revenue — Online or Retail?
 4. Who is the top-performing sales rep, and what is the performance gap?
 
-This project is the SQL companion to my [Excel Sales Dashboard Portfolio](https://docs.google.com/spreadsheets/d/1lgDkqhfty1d2mlpEtz9E13XSm2-0-F5n/edit), which analysed the same business problem using Microsoft Excel.
+This project is the SQL companion to my [Excel Sales Dashboard Portfolio](https://docs.google.com/spreadsheets/d/1krlZIdZH0XaOI0f5ln8nEc7YIKXG_klY/edit), which analysed the same business problem using Microsoft Excel.
 
 ---
 
@@ -132,7 +132,7 @@ transactions    — fact table linking all entities (sales data)
 
 ## 🔗 Related Projects
 
-- 📊 [Excel Sales Dashboard Portfolio](https://docs.google.com/spreadsheets/d/1lgDkqhfty1d2mlpEtz9E13XSm2-0-F5n/edit) — same dataset, analysed in Microsoft Excel
+- 📊 [Excel Sales Dashboard Portfolio](https://docs.google.com/spreadsheets/d/1krlZIdZH0XaOI0f5ln8nEc7YIKXG_klY/edit) — same dataset, analysed in Microsoft Excel
 
 ---
 
